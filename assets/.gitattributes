@@ -1,0 +1,6 @@
+N02-18_Station.geojson.gz filter=lfs diff=lfs merge=lfs -text
+N03-19_11_190101-Tokyo.geojson.gz filter=lfs diff=lfs merge=lfs -text
+N03-19_12_190101-Chiba.geojson.gz filter=lfs diff=lfs merge=lfs -text
+N03-19_13_190101-Saitama.geojson.gz filter=lfs diff=lfs merge=lfs -text
+N03-19_14_190101-Kanagawa.geojson.gz filter=lfs diff=lfs merge=lfs -text
+N02-18_RailroadSection.geojson.gz filter=lfs diff=lfs merge=lfs -text
